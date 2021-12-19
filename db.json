@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "id": 4,
+      "company_name": "Video Production Consulting",
+      "contact_firstname": "Miriam",
+      "contact_lastname": "Doe",
+      "contact_email": "mdoe@vidprod.com",
+      "acquired_on": "2020-07-05",
+      "customer_status": "inactive"
+    },
+    {
+      "id": 5,
+      "company_name": "nil",
+      "contact_firstname": "Jill",
+      "contact_lastname": "Wade",
+      "contact_email": "jwade@codewrit.com",
+      "acquired_on": "2020-04-03",
+      "customer_status": "inactive"
+    },
+    {
+      "contact_firstname": "nilo",
+      "contact_lastname": "za",
+      "contact_email": "zaferaninniloufar@gmail.com",
+      "company_name": "mm",
+      "acquired_on": "2021-12-21",
+      "customer_status": "active",
+      "id": 6
+    },
+    {
+      "contact_firstname": "sakineh",
+      "contact_lastname": "zaferani",
+      "contact_email": "zaferaninniloufar@gmail.com",
+      "company_name": "forrozgar",
+      "acquired_on": "2021-12-15",
+      "customer_status": "active",
+      "id": 7
+    },
+    {
+      "contact_firstname": "sakineh",
+      "customer_status": "active",
+      "acquired_on": "2022-01-01",
+      "contact_lastname": "za",
+      "id": 8,
+      "contact_email": "zaferaninniloufar@gmail.com",
+      "company_name": "hgnh"
+    }
+  ]
+}
